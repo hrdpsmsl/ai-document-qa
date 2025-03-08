@@ -1,0 +1,14 @@
+flask[async]
+flask-jwt-extended
+flask-sqlalchemy
+flask-migrate
+psycopg2-binary
+bcrypt
+python-dotenv
+google-generativeai
+pgvector
+pdfplumber
+uuid
+google
+numpy
+scikit-learn
