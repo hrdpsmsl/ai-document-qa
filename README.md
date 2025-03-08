@@ -27,7 +27,7 @@ Ensure you have the following installed:
 
 ### **🔹 Step 1: Clone the Repository**  
 ```bash
-git clone [https://github.com/your-repo.git](https://github.com/hrdpsmsl/ai-document-qa.git)
+git clone https://github.com/hrdpsmsl/ai-document-qa.git
 cd your-repo
 ```
 
