@@ -6,7 +6,7 @@ services:
     ports:
       - '8000:8000'
     environment:
-      - DATABASE_URL=postgresql://neondb_owner:npg_v1aV2AQWxJrf@ep-shiny-brook-a11hfl18-pooler.ap-southeast-1.aws.neon.tech/neondb
+      - DATABASE_URL=postgresql://neondb_owner:npg_v1aV2AQWxJrtheast-1.aws.neon.tech/neondb
     depends_on:
       - db
   db:
